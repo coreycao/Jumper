@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<me.corey.theatre.widget.TvScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="sticky" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:id="@+id/btn_default_a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="点击前进到 Fragment Second" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/app_name" />
+
+        <me.corey.theatre.widget.FocusedButton
+            android:id="@+id/btn_default_b"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="点击前进到 Fragment Second" />
+    </LinearLayout>
+
+
+</me.corey.theatre.widget.TvScrollView>
